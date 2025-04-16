@@ -1,7 +1,7 @@
 # React + Vite
 
 Enjoy the Free code + Assets 😍 
-- Support us on YouTube Channel: https://www.youtube.com/channel/UC1H-a1MKEFXRiFlGNLcy7gQ
+- [Live Demo](https://book-store-taupe.vercel.app/)
 
 Currently, two official plugins are available:
 
